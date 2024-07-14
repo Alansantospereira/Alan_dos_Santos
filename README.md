@@ -1,5 +1,5 @@
 # Alan_dos_Santos
-<img align="right" src="https://github.com/Susana-Bergamo/Susana-Bergamo/blob/main/profile.pic.jpg" width="300"/>
+
 
 ## Hello World! 👩🏻‍💻
 *Transformando Bugs em Sorrisos!🐞 🚀*
